@@ -4,7 +4,7 @@
 
 - 📘 Computer Science student
 - 🚀 Astronomy enthusiast
-- 🎮 GGamer in my free time
+- 🎮 Gamer in my free time
 - 👩‍💻 Always learning about back-end
 - "Your time is limited, don't waste it living someone else's life."
  <div id="badges">
