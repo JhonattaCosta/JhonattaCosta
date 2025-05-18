@@ -2,7 +2,7 @@
 
 # Welcome to my Github! 😎
 
-- 📘 Computer Science student
+- 📘 software Engineer student
 - 🚀 Astronomy enthusiast
 - 🎮 Gamer in my free time
 - 👩‍💻 Always learning about back-end
